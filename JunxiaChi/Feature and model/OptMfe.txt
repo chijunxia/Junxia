@@ -1,0 +1,2304 @@
+>NewCJX-1
+AAAACGGGGUUGUGGGAGAGC
+..................... (  0.00)
+>NewCJX-2
+CUCUUUUUGGACCCAAGGUCGG
+.........((((...)))).. ( -4.10)
+>NewCJX-3
+GAGAAUUUCUGGAAGGGC
+.................. (  0.00)
+>NewCJX-4
+UUAGUAGCCAGAGGAAAAGAAAGC
+........................ (  0.00)
+>NewCJX-5
+CGUGCGUUGGAUUAUGAC
+.................. (  0.00)
+>NewCJX-6
+CUACCGUGCGUUGGAUUAUGACU
+...(((.....)))......... ( -1.10)
+>NewCJX-7
+UACCGUGCGUUGGAUUAUGACU
+..(((.....)))......... ( -1.10)
+>NewCJX-8
+AAAGCGAAGAACCUUACCAGGGC
+...........(((....))).. ( -1.50)
+>NewCJX-9
+UUGGUCAUCGCGCUUGGU
+.................. (  0.00)
+>NewCJX-10
+CUCUUUUUGGACCCAAGGUCGGC
+.........((((...))))... ( -4.10)
+>NewCJX-11
+AGAAUUCACCAAGUGUUGGAU
+........((((...)))).. ( -1.50)
+>NewCJX-12
+CCUCUUUUUGGACCCAAGGUCGG
+..........((((...)))).. ( -4.10)
+>NewCJX-13
+GAAAACGGGGUUGUGGGAGAGC
+...................... (  0.00)
+>NewCJX-14
+AAACUCUGAAUACUAGAUAUGACCU
+....((((.....))))........ ( -0.60)
+>NewCJX-15
+AAACUCUGGUGGAGGCCCGCAGCGA
+...(.(((.(((....)))))).). ( -4.60)
+>NewCJX-16
+UCAGAUACCGUCCUAGUCUCAACC
+..((((.........))))..... ( -0.10)
+>NewCJX-17
+UCAGAUACCGUCCUAGUCU
+................... (  0.00)
+>NewCJX-18
+AGCUACCGUGCGUUGGAUUAUGACU
+.((......)).............. ( -1.50)
+>NewCJX-19
+UACCGUGCGUUGGAUUAUGACUG
+..(((.....))).......... ( -1.10)
+>NewCJX-20
+UCGGGGGCAUUCGUAUUUCAUAG
+.((((....)))).......... ( -0.50)
+>NewCJX-21
+UUAGGCCACGGAAGUUUGAGGC
+....(((.(((....))).))) ( -2.60)
+>NewCJX-22
+AAACUCUGGUGGAGGCCCGC
+........((((....)))) ( -3.10)
+>NewCJX-23
+AACUCCAAAAACCCGUCCU
+................... (  0.00)
+>NewCJX-24
+CUCGGCGUCCGAAUUGUAGUCU
+.((((...)))).......... ( -3.20)
+>NewCJX-25
+CUACCGUGCGUUGGAUUAUGACUG
+...(((.....))).......... ( -1.10)
+>NewCJX-26
+AAACUCUGGUGGAGGCCC
+...((((...)))).... ( -2.30)
+>NewCJX-27
+GUUGGUGACCCUCGUGAGGC
+.........(((....))). ( -0.70)
+>NewCJX-28
+AUGAUAACUCGUCGGAUCG
+................... (  0.00)
+>NewCJX-29
+GAUACCGUCCUAGUCUCAACC
+..................... (  0.00)
+>NewCJX-30
+CCAGCUUCUUAGAGGGACUAUGGC
+((..((....))..))........ ( -2.50)
+>NewCJX-31
+UCGGGGGCAUUCGUAUUUCAUAGU
+.((((....))))........... ( -0.50)
+>NewCJX-32
+CUCUUUUUGGACCCAAGGUCG
+.........((((...)))). ( -4.10)
+>NewCJX-33
+AUUCUUGGAUUUAUGAAAGACGA
+..((((..........))))... ( -0.60)
+>NewCJX-34
+ACGAAAGUUGGGGGCUCGAAG
+..................... (  0.00)
+>NewCJX-35
+AACUUUAAAUAGGUAGGACGGUGC
+.((((.....)))).......... ( -0.60)
+>NewCJX-36
+UUGGUGACCCUCGUGAGGC
+........(((....))). ( -0.70)
+>NewCJX-37
+GAGAAUUUCUGGAAGGGCU
+................... (  0.00)
+>NewCJX-38
+GAAACUCUGGUGGAGGCCCGC
+.........((((....)))) ( -3.10)
+>NewCJX-39
+CCUCUUUUUGGACCCAAGGUCG
+..........((((...)))). ( -4.10)
+>NewCJX-40
+AGACGUCAUCAUCGCGAUUGUGGAU
+............(((....)))... ( -1.30)
+>NewCJX-41
+UCAGAUACCGUCCUAGUCUCAAC
+..((((.........)))).... ( -0.10)
+>NewCJX-42
+ACGAUGCCGACCAGGGAUCAGCGGA
+..(((.((.....)).)))...... ( -6.30)
+>NewCJX-43
+ACCGUGCGUUGGAUUAUGACU
+.(((.....)))......... ( -1.10)
+>NewCJX-44
+UACCGUGCGUUGGAUUAUGACUGA
+..(((.....)))........... ( -1.10)
+>NewCJX-45
+AAACUCUGGUGGAGGCCCG
+...((((...))))..... ( -2.30)
+>NewCJX-46
+AGAUACCGUCCUAGUCUCAACC
+...................... (  0.00)
+>NewCJX-47
+ACCGUGCGUUGGAUUAUGAC
+.(((.....)))........ ( -1.10)
+>NewCJX-48
+UUGUAAGUGGCAGAGUGGCC
+........(((......))) ( -2.70)
+>NewCJX-49
+ACGCGGAUUGCGAUGGUGGCCCAAG
+.(((.....))).(((....))).. ( -3.80)
+>NewCJX-50
+UCAGAUACCGUCCUAGUC
+.................. (  0.00)
+>NewCJX-51
+GAAGCCCGUCUGAUAGCGCU
+..(((.(........).))) ( -1.60)
+>NewCJX-52
+ACGAAAGUUGGGGGCUCGAAGACGA
+......................... (  0.00)
+>NewCJX-53
+UCGGCGUCCGAAUUGUAGUCU
+((((...)))).......... ( -3.00)
+>NewCJX-54
+AAAGCAUUGCGAUGGUCCC
+................... (  0.00)
+>NewCJX-55
+UCAGAUACCGUCCUAGUCUCAACCA
+..((((.........))))...... ( -0.10)
+>NewCJX-56
+CCUCUUUUUGGACCCAAGGUCGGC
+..........((((...))))... ( -4.10)
+>NewCJX-57
+ACGAAAGUUGGGGGCUCGAAGACG
+........................ (  0.00)
+>NewCJX-58
+CGAGAAUUUCUGGAAGGGC
+(.(((...))).)...... ( -1.10)
+>NewCJX-59
+AACGGCUCAGCCGGAGGUAGGGUC
+...(((((.(((...))).))))) ( -6.10)
+>NewCJX-60
+UCUUUUUGGACCCAAGGUCGGC
+........((((...))))... ( -4.10)
+>NewCJX-61
+AGAGUGCUUGAAAUUGUCGGGAGG
+......(((((.....)))))... ( -2.30)
+>NewCJX-62
+GAGAAUUUCUGGAAGGGCUCCC
+..........(((.....))). ( -1.30)
+>NewCJX-63
+UUGGAACCCUGAGCAGACUGCCGG
+........(((.(((...)))))) ( -2.90)
+>NewCJX-64
+UGCCGUUGGUGACCCUCGUGAGGC
+.(((...((....))......))) ( -2.80)
+>NewCJX-65
+AGAGGAUGAUCAGCCACACUGGG
+.........((((.....)))). ( -1.20)
+>NewCJX-66
+UUGGAACCCUGAGCAGACUGCCGGU
+........(((.(((...)))))). ( -3.60)
+>NewCJX-67
+GAAGCCCGUCUGAUAGCG
+.................. (  0.00)
+>NewCJX-68
+AUGCCGACCAGGGAUCAGCGGA
+((.((.....)).))....... ( -2.00)
+>NewCJX-69
+UCAGAUACCGUCCUAGUCUC
+..((((.........)))). ( -0.10)
+>NewCJX-70
+CGUGCGUUGGAUUAUGACU
+.((.(((......))))). ( -0.50)
+>NewCJX-71
+UGGAACCCUGAGCAGACUGCCGGU
+.......(((.(((...)))))). ( -3.60)
+>NewCJX-72
+ACGAAAGUUGGGGGCUCGAAGA
+...................... (  0.00)
+>NewCJX-73
+AAACUCUGGUGGAGGCCCGCA
+........((((....)))). ( -4.50)
+>NewCJX-74
+UGGAACCCUGAGCAGACUGCCGG
+.......(((.(((...)))))) ( -2.90)
+>NewCJX-75
+UAGUAUGUUCCAAGGGUUGGGCU
+........(((((...))))).. ( -2.10)
+>NewCJX-76
+GAGAAUUUCUGGAAGGGCUC
+(((..(((....)))..))) ( -0.40)
+>NewCJX-77
+CGAGAAUUUCUGGAAGGGCUCCC
+.(((..(((....)))..))).. ( -1.50)
+>NewCJX-78
+AGAUACCGUCCUAGUCUC
+.................. (  0.00)
+>NewCJX-79
+CCGUGCGUUGGAUUAUGACU
+(((.....)))......... ( -1.10)
+>NewCJX-80
+UGCUGCCACGAUCCACUG
+.................. (  0.00)
+>NewCJX-81
+UAGUAGCCAGAGGAAAAGAAAGC
+....................... (  0.00)
+>NewCJX-82
+AAGCAUUGCGAUGGUCCC
+.................. (  0.00)
+>NewCJX-83
+UUAAAUAGGUAGGACGGUGCGGC
+........(((......)))... ( -0.80)
+>NewCJX-84
+CUCGGCGUCCGAAUUGUAGUCUG
+.((((...))))........... ( -3.20)
+>NewCJX-85
+UACCGUCCUAGUCUCAACC
+................... (  0.00)
+>NewCJX-86
+GAAGCCCGUCUGAUAGCGC
+......(((......))). ( -0.40)
+>NewCJX-87
+GUCCGGUGCGCCCCCGGCGGCC
+....(((.((((...))))))) ( -7.50)
+>NewCJX-88
+GAAAUUCUUGGAUUUAUGAAAGACG
+.....((((..........)))).. ( -0.60)
+>NewCJX-89
+CUACCGUGCGUUGGAUUAUGAC
+...(((.....)))........ ( -1.10)
+>NewCJX-90
+CUCGGCGUCCGAAUUGUAGUCUGGA
+.((((...))))............. ( -3.20)
+>NewCJX-91
+UUGGUCAUCGCGCUUGGUU
+................... (  0.00)
+>NewCJX-92
+AACUCUGAAUACUAGAUAUGACCU
+...((((.....))))........ ( -0.60)
+>NewCJX-93
+AUUCUUGGAUUUAUGAAAGACGAA
+..((((..........)))).... ( -0.60)
+>NewCJX-94
+ACGGCGGUGAAUUCGUUCCCGGGCC
+..(((((.(((....)))))..))) ( -4.80)
+>NewCJX-95
+AAGUGUUGGAUUGUUCACCCACCA
+..(((...((....))...))).. ( -2.10)
+>NewCJX-96
+UACCGUGCGUUGGAUUAUGACUGAA
+..(((.....)))............ ( -1.10)
+>NewCJX-97
+AGAGUGCUUGAAAUUGUCGGGAG
+......(((((.....))))).. ( -2.30)
+>NewCJX-98
+UGAACGCAAGUUGCGCCCGAAGCC
+....((((...))))......... ( -3.10)
+>NewCJX-99
+AACGAAAGUUGGGGGCUCGAAGACG
+......................... (  0.00)
+>NewCJX-100
+UCAACUUUCGAUGGUAGGA
+((.(((......))).)). ( -0.40)
+>NewCJX-101
+ACAAUGGACGGGACAAAGGAUC
+...................... (  0.00)
+>NewCJX-102
+CUCUUUUUGGACCCAAGGUCGGCA
+.........((((...)))).... ( -4.10)
+>NewCJX-103
+AUCAGCUCGCGUUGACUACGUCCCU
+.(((((....))))).......... ( -3.50)
+>NewCJX-104
+GAGACGUCAUCAUCGCGAUUGUGG
+.............(((....))). ( -1.30)
+>NewCJX-105
+GCUACCGUGCGUUGGAUUAUGACU
+((......)).............. ( -1.80)
+>NewCJX-106
+AUUAGCCCUACGAGACGCCU
+.................... (  0.00)
+>NewCJX-107
+GGUAGGGUCCAGCGGCUGGAAGAGC
+.......(((((...)))))..... ( -4.80)
+>NewCJX-108
+AACUUUAAAUAGGUAGGACG
+.((((.....))))...... ( -0.60)
+>NewCJX-109
+GAGACGUCAUCAUCGCGAUUGUGGA
+.............(((....))).. ( -1.30)
+>NewCJX-110
+UUUGCCGACCAGCAGUAGGGGGCC
+...(((..((.......)).))). ( -5.20)
+>NewCJX-111
+UACCGUGCGUUGGAUUAUGAC
+..(((.....)))........ ( -1.10)
+>NewCJX-112
+CUCGGCGUCCGAAUUGUAGUCUGG
+.((((...))))............ ( -3.20)
+>NewCJX-113
+AGACGUCAUCAUCGCGAUUGUGGA
+............(((....))).. ( -1.30)
+>NewCJX-114
+CUACCGUGCGUUGGAUUAUGACUGA
+...(((.....)))........... ( -1.10)
+>NewCJX-115
+GAGACGUCAUCAUCGCGAUU
+....(((.......)))... ( -0.10)
+>NewCJX-116
+GCGGAUUGCGAUGGUGGCCCA
+..((.((((....)))).)). ( -3.10)
+>NewCJX-117
+ACGCGGAUUGCGAUGGUGGC
+.(((.....)))........ ( -2.70)
+>NewCJX-118
+AUACCGUCCUAGUCUCAACC
+.................... (  0.00)
+>NewCJX-119
+CCAGCUUCUUAGAGGGACUAUGGCC
+((..((....))..))......... ( -2.50)
+>NewCJX-120
+UUGAACGCAAGUUGCGCCCGAAGCC
+(((..((((...))))..))).... ( -4.10)
+>NewCJX-121
+AUUAGCCCUACGAGACGCC
+................... (  0.00)
+>NewCJX-122
+ACGAAAGUUGGGGGCUCGAAGAC
+....................... (  0.00)
+>NewCJX-123
+AGAACGAAAGUUGGGGGCUCGAAGA
+..(((....)))............. ( -0.50)
+>NewCJX-124
+UCCGUCCAAGGCUAAAUACUGGC
+..........((((.....)))) ( -1.30)
+>NewCJX-125
+CCUCGGCGUCCGAAUUGUAGUCU
+..((((...)))).......... ( -3.20)
+>NewCJX-126
+GAACGAAAGUUGGGGGCUCGAAGAC
+.(((....))).............. ( -0.50)
+>NewCJX-127
+AAAAGCCCACCAUGAAAAUCGGU
+........(((((....)).))) ( -0.60)
+>NewCJX-128
+UUUGGAACCCUGAGCAGACUGCCGG
+.........(((.(((...)))))) ( -2.90)
+>NewCJX-129
+ACAUGGGUUAGUCGAUCC
+....(((((....))))) ( -2.20)
+>NewCJX-130
+GCACAUGGGUUAGUCGAUC
+................... (  0.00)
+>NewCJX-131
+GUCGGUGGACUGCUCGAGCU
+(((....))).......... ( -2.60)
+>NewCJX-132
+AUUCUUGGAUUUAUGAAAGACGAAC
+..((((..........))))..... ( -0.60)
+>NewCJX-133
+UAAAUAGGUAGGACGGUGCGGC
+.......(((......)))... ( -0.80)
+>NewCJX-134
+CGAGAAUUUCUGGAAGGGCU
+(.(((...))).)....... ( -1.10)
+>NewCJX-135
+ACGCGGAUUGCGAUGGUGGCCCA
+.(((.....))).(((....))) ( -3.30)
+>NewCJX-136
+GCCCCUCUUUUUGGACCCAAGGUCG
+.............((((...)))). ( -4.10)
+>NewCJX-137
+AGAAAUCUCGUGUGGAACA
+................... (  0.00)
+>NewCJX-138
+GUCCUAAGAUGAGCUCAACGAGA
+....................... (  0.00)
+>NewCJX-139
+GAGAAUUUCUGGAAGGGCUCCCU
+..........(((.....))).. ( -1.30)
+>NewCJX-140
+AACGGCUCAGCCGGAGGUAGGGU
+..((((...)))).......... ( -5.30)
+>NewCJX-141
+AAACGAUGGAUACUAGGCGCUGUGC
+......................... (  0.00)
+>NewCJX-142
+AGACGUCAUCAUCGCGAUUGUG
+..(((((........)).))). ( -0.30)
+>NewCJX-143
+GACGUCAUCAUCGCGAUUGUGGAU
+...........(((....)))... ( -1.30)
+>NewCJX-144
+AAAGUUCGAGUACCAGGCG
+................... (  0.00)
+>NewCJX-145
+AACGAUGGAUACUAGGCGCUGUGC
+........................ (  0.00)
+>NewCJX-146
+UAAACGAUGGAUACUAGGCGCU
+...................... (  0.00)
+>NewCJX-147
+UGCUGCCACGAUCCACUGAGAUU
+.........((((......)))) ( -0.20)
+>NewCJX-148
+GGCGCGAAGCUACCGUGCGUUGGA
+.(((((.......)))))...... ( -6.80)
+>NewCJX-149
+GGUACGGACAAGGGGAAUC
+................... (  0.00)
+>NewCJX-150
+ACAUGGGUUAGUCGAUCCU
+....(((((....))))). ( -3.40)
+>NewCJX-151
+CCGUGCGUUGGAUUAUGAC
+(((.....)))........ ( -1.10)
+>NewCJX-152
+ACGCGGAUUGCGAUGGUGGCC
+.(((.....)))......... ( -2.70)
+>NewCJX-153
+GUAAACGAUGGAUACUAGGCGCU
+....................... (  0.00)
+>NewCJX-154
+ACCGUCCUAGUCUCAACC
+.................. (  0.00)
+>NewCJX-155
+GUAAGUGGCAGAGUGGCC
+......(((......))) ( -2.70)
+>NewCJX-156
+AAGUUGGGGGCUCGAAGAC
+................... (  0.00)
+>NewCJX-157
+AGAGUGCUUGAAAUUGUCGGGAGGG
+......(((((.....))))).... ( -2.30)
+>NewCJX-158
+UUCACCAAGUGUUGGAUUGUUCACC
+....((((...)))).......... ( -1.50)
+>NewCJX-159
+UAACUCGUCGGAUCGCAC
+.................. (  0.00)
+>NewCJX-160
+AGACGUCAUCAUCGCGAUUG
+...(((.......))).... ( -0.10)
+>NewCJX-161
+UGCCGACCAGGGAUCAGCGGA
+..((......))......... ( -1.60)
+>NewCJX-162
+AACGAAAGUUGGGGGCUCGAAGA
+....................... (  0.00)
+>NewCJX-163
+AAAUUCCGUCCAAGGCUA
+.....((......))... ( -0.70)
+>NewCJX-164
+ACGCGGAUUGCGAUGGUGGCCC
+.(((.....))).......... ( -2.70)
+>NewCJX-165
+AGAUUCAGCCCUUGUCGCU
+......(((.......))) ( -0.40)
+>NewCJX-166
+ACUGGUACGGACAAGGGGAAUCC
+....................... (  0.00)
+>NewCJX-167
+CGCGGAUUGCGAUGGUGGCCCA
+(((.....))).(((....))) ( -3.30)
+>NewCJX-168
+UUUAAAUAGGUAGGACGGUGCGGCU
+.........(((......))).... ( -0.80)
+>NewCJX-169
+UGCACAUGGGUUAGUCGAUCC
+.......(((((....))))) ( -2.20)
+>NewCJX-170
+UCUUAGAGGGACUAUGGCCG
+.......((........)). ( -1.40)
+>NewCJX-171
+AUGUUCCAAGGGUUGGGCU
+....(((((...))))).. ( -2.10)
+>NewCJX-172
+AACGGCUCAGCCGGAGGUAGGGUCC
+...(((((.(((...))).))))). ( -6.90)
+>NewCJX-173
+AUCAACUUUCGAUGGUAGGA
+....(((......))).... ( -0.30)
+>NewCJX-174
+UGUAAGUGGCAGAGUGGCC
+.......(((......))) ( -2.70)
+>NewCJX-175
+AUGAUAACUCGUCGGAUC
+.................. (  0.00)
+>NewCJX-176
+AUACCCGGCCGUCGGGGC
+...((((.....)))).. ( -6.40)
+>NewCJX-177
+GUUUGGAACCCUGAGCAGACUGCCG
+((((((....))))))......... ( -3.80)
+>NewCJX-178
+GAAAUUCUUGGAUUUAUGAAAG
+...................... (  0.00)
+>NewCJX-179
+GUUUGGAACCCUGAGCAGACUGCC
+((((((....))))))........ ( -3.80)
+>NewCJX-180
+UUCAUGAUAACUCGUCGGAUCG
+(((((((....)))).)))... ( -1.10)
+>NewCJX-181
+AAAACGGGGUUGUGGGAGAGCU
+.......((((.......)))) ( -0.60)
+>NewCJX-182
+ACUGGUACGGACAAGGGGAAUC
+...................... (  0.00)
+>NewCJX-183
+UAAUCAAGAACGAAAGUUGGGGGC
+........(((....)))...... ( -0.50)
+>NewCJX-184
+AAGUGUUGGAUUGUUCACCCACC
+..(((...((....))...))). ( -2.10)
+>NewCJX-185
+ACCGUGCGUUGGAUUAUGACUG
+.(((.....))).......... ( -1.10)
+>NewCJX-186
+CGAGAAUUUCUGGAAGGGCUC
+(.(((...))).)........ ( -1.10)
+>NewCJX-187
+AAUUCCGUCCAAGGCUAA
+....((......)).... ( -0.70)
+>NewCJX-188
+AAGCAGAACUGGCGAUGCGGGA
+........((.((...)).)). ( -2.60)
+>NewCJX-189
+UCGGCGAGUCGGGUUGUUU
+.((((.......))))... ( -1.50)
+>NewCJX-190
+AUGAUAACUCGUCGGAUCGC
+.................... (  0.00)
+>NewCJX-191
+UGCACCGGUCGGCUCGUCCC
+......((.((...)).)). ( -2.00)
+>NewCJX-192
+AUUCUAGAGCUAAUACGUGCAAC
+........((........))... ( -1.50)
+>NewCJX-193
+AGAAAUUAGAGUGCUCAAAGC
+..................... (  0.00)
+>NewCJX-194
+AAGAUGAGCUCAACGAGA
+.................. (  0.00)
+>NewCJX-195
+AGUCUUUGAACGCAAGUUGCGCCCG
+..........((((...)))).... ( -3.10)
+>NewCJX-196
+CCUUCGGAAUUUGAAGCUAGAGG
+.(((((.....)))))....... ( -2.30)
+>NewCJX-197
+CAUCAGCUCGCGUUGACU
+..(((((....))))).. ( -3.50)
+>NewCJX-198
+UGCUGCCACGAUCCACUGAGAUUC
+.........((((......)))). ( -0.50)
+>NewCJX-199
+AGAACGAAAGUUGGGGGC
+..(((....)))...... ( -0.50)
+>NewCJX-200
+GUAGGGUCCAGCGGCUGGAAGAGCA
+((....(((((...)))))...)). ( -5.40)
+>NewCJX-201
+GAACGAAAGUUGGGGGCUCGAAG
+.(((....)))............ ( -0.50)
+>NewCJX-202
+CUUCGGAAUUUGAAGCUAGAGGU
+(((((.....)))))........ ( -2.00)
+>NewCJX-203
+UACCGUGCGUUGGAUUAUGA
+..(((.....)))....... ( -1.10)
+>NewCJX-204
+GUUUGCCGACCAGCAGUAGGGGGCC
+....(((..((.......)).))). ( -5.20)
+>NewCJX-205
+GCUACCGUGCGUUGGAUUAUGACUG
+((......))............... ( -1.80)
+>NewCJX-206
+UGCACAUGGGUUAGUCGAUC
+.................... (  0.00)
+>NewCJX-207
+ACAAAGCAUUGCGAUGGUCCC
+.((..((...))..))..... ( -0.70)
+>NewCJX-208
+AAUUAGAGUGCUCAAAGC
+.................. (  0.00)
+>NewCJX-209
+AAAGCGAAGAACCUUACCAGGGCU
+...........(((....)))... ( -1.50)
+>NewCJX-210
+AACUGGUACGGACAAGGGGAAUCC
+........................ (  0.00)
+>NewCJX-211
+AAGUUGGGGGCUCGAAGACGA
+..................... (  0.00)
+>NewCJX-212
+UCGGGGGCAUUCGUAUUUCAUAGUC
+.((((....))))............ ( -0.50)
+>NewCJX-213
+AAACUUUAAAUAGGUAGGACG
+..((((.....))))...... ( -0.60)
+>NewCJX-214
+UCGAGAAUUUCUGGAAGGGCUC
+((.(((...))).))....... ( -2.70)
+>NewCJX-215
+CAUGAUAACUCGUCGGAUCGC
+..................... (  0.00)
+>NewCJX-216
+ACACGGCCCAGACUCCUACGGGAGG
+............((((....)))). ( -6.60)
+>NewCJX-217
+CACGGCCCAGACUCCUACGGGAGG
+...........((((....)))). ( -6.60)
+>NewCJX-218
+AGACGUCAUCAUCGCGAUU
+...(((.......)))... ( -0.10)
+>NewCJX-219
+AGCUACCGUGCGUUGGAUUAUGAC
+.((......))............. ( -1.50)
+>NewCJX-220
+AGUAUGUUCCAAGGGUUGGGCU
+.......(((((...))))).. ( -2.10)
+>NewCJX-221
+CGCGGAUUGCGAUGGUGGC
+(((.....)))........ ( -2.70)
+>NewCJX-222
+CCGACCAGCAGUAGGGGGCC
+((..((.......)).)).. ( -1.40)
+>NewCJX-223
+CUCUUUUUGGACCCAAGGUCGGCU
+.........((((...)))).... ( -4.10)
+>NewCJX-224
+GCACUUGCACAUGGGUUAGUCGAUC
+(.(((.((......)).)))).... ( -1.20)
+>NewCJX-225
+AACGAAAGUUGGGGGCUCGAAGAC
+........................ (  0.00)
+>NewCJX-226
+AACGGGCUUGGCGGAAUCAGCGGGG
+......(((.((.......)).))) ( -3.90)
+>NewCJX-227
+CCUUCGGAAUUUGAAGCUAGAGGUG
+((((.((.........)).)))).. ( -2.40)
+>NewCJX-228
+GUACGGACAAGGGGAAUC
+.................. (  0.00)
+>NewCJX-229
+AAUAGGUAGGACGGUGCGGC
+.....(((......)))... ( -0.80)
+>NewCJX-230
+CCCUCGGCGUCCGAAUUGUAGUCU
+...((((...)))).......... ( -3.20)
+>NewCJX-231
+CGCGGAUUGCGAUGGUGGCCCAAGC
+(((.....))).(((....)))... ( -3.80)
+>NewCJX-232
+AGAACGAAAGUUGGGGGCU
+..(((....)))....... ( -0.50)
+>NewCJX-233
+UUCUUAGAGGGACUAUGGCC
+........((........)) ( -0.20)
+>NewCJX-234
+UUCUGUUUAACAGCCUGCCCACCCU
+..((((...))))............ ( -1.00)
+>NewCJX-235
+UCGGUGGACUGCUCGAGCU
+(((((.....)).)))... ( -1.70)
+>NewCJX-236
+CCCUCUUUUUGGACCCAAGGUCGG
+...........((((...)))).. ( -4.10)
+>NewCJX-237
+GUAGGGUCCAGCGGCUGGAAGAGC
+......(((((...)))))..... ( -4.80)
+>NewCJX-238
+GGUACGGACAAGGGGAAUCC
+.................... (  0.00)
+>NewCJX-239
+UUGGCUGUAGAGGAUCGUUCU
+........((((.....)))) ( -0.20)
+>NewCJX-240
+GUGCCGGUCGGGGGACGGAUUGGGA
+...((((((.(....).)))))).. ( -8.70)
+>NewCJX-241
+UUGGGGGCUCGAAGACGA
+.................. (  0.00)
+>NewCJX-242
+AGUGUUGGAUUGUUCACCCACC
+.(((...((....))...))). ( -2.10)
+>NewCJX-243
+UCUUAGAGGGACUAUGGCC
+.......((........)) ( -0.20)
+>NewCJX-244
+GGAUUUAUGAAAGACGAAC
+................... (  0.00)
+>NewCJX-245
+AGACGUCAUCAUCGCGAUUGUGG
+............(((....))). ( -1.30)
+>NewCJX-246
+CGUGCGUUGGAUUAUGACUG
+.((.(((......))))).. ( -0.50)
+>NewCJX-247
+AACUGGUACGGACAAGGGGAAUC
+....................... (  0.00)
+>NewCJX-248
+GCACAUGGGUUAGUCGAUCC
+......(((((....))))) ( -2.20)
+>NewCJX-249
+AUUAGAGGCAUCGGGGGC
+.................. (  0.00)
+>NewCJX-250
+AGAAAUCUCGUGUGGAAC
+.................. (  0.00)
+>NewCJX-251
+UCGGCGUCCGAAUUGUAGUCUGGA
+((((...))))............. ( -3.00)
+>NewCJX-252
+UGAAAAUCCGGAGGACCG
+........(((....))) ( -1.50)
+>NewCJX-253
+AAAGCCCACCAUGAAAAUCGGU
+.......(((((....)).))) ( -0.60)
+>NewCJX-254
+UCCGUCCAAGGCUAAAUACUGGCG
+..((.(((.(........)))))) ( -3.00)
+>NewCJX-255
+AGAACUGGUACGGACAAGGGGAAUC
+......................... (  0.00)
+>NewCJX-256
+UCGAGAAUUUCUGGAAGGGCUCCCU
+((.(((...))).))(((....))) ( -3.80)
+>NewCJX-257
+UUGAAAAUCCGGAGGACC
+.......(((...))).. ( -0.40)
+>NewCJX-258
+UUGAAAAUCCGGAGGACCG
+.........(((....))) ( -1.50)
+>NewCJX-259
+GGCGCGAAGCUACCGUGCGUUGGAU
+.(((((.......)))))....... ( -6.80)
+>NewCJX-260
+ACGAGACCUCAGCCUGCU
+.................. (  0.00)
+>NewCJX-261
+GAAAGUUGGGGGCUCGAAGACGA
+....................... (  0.00)
+>NewCJX-262
+AAAUUCCGUCCAAGGCUAAA
+.....((......))..... ( -0.70)
+>NewCJX-263
+AGUUAUAGUUUGUUUGAU
+.................. (  0.00)
+>NewCJX-264
+UCGGCGAGUCGGGUUGUU
+.((((.......)))).. ( -1.50)
+>NewCJX-265
+AGGGUGAGAGCCCCGUCGUGCCCGG
+.(((((.((......)).))))).. ( -8.50)
+>NewCJX-266
+CACUUGCACAUGGGUUAGUCGAUCC
+...........(((((....))))) ( -2.20)
+>NewCJX-267
+GAACGAAAGUUGGGGGCU
+.(((....)))....... ( -0.50)
+>NewCJX-268
+UGCAAUUGUUGGUCUUCAACG
+.......((((.....)))). ( -2.50)
+>NewCJX-269
+GUCUUUGAACGCAAGUUGCGCCCG
+.........((((...)))).... ( -3.10)
+>NewCJX-270
+AGACGUCAUCAUCGCGAUUGU
+...(((.......)))..... ( -0.10)
+>NewCJX-271
+GCCGGAGGUAGGGUCCAGC
+((.(((.......))).)) ( -3.70)
+>NewCJX-272
+GCACAUGGGUUAGUCGAUCCUAAG
+......(((((....))))).... ( -3.40)
+>NewCJX-273
+UUGAAAAUCCGGAGGACCGA
+.........(((....))). ( -2.70)
+>NewCJX-274
+CAACUUUCGAUGGUAGGA
+..(((......))).... ( -0.30)
+>NewCJX-275
+UUUUUGGACCCAAGGUCGGC
+......((((...))))... ( -4.10)
+>NewCJX-276
+AACUUUAAAUAGGUAGGACGGU
+.((((.....))))........ ( -0.60)
+>NewCJX-277
+GAACGAAAGUUGGGGGCUCGAAGA
+.(((....)))............. ( -0.50)
+>NewCJX-278
+GAAAGUUGGGGGCUCGAAGACG
+...................... (  0.00)
+>NewCJX-279
+AGAAUGAAACUCAAAGGAAUUG
+...................... (  0.00)
+>NewCJX-280
+CGAGAAUUUCUGGAAGGGCUCCCU
+(.(((...))).).(((....))) ( -2.20)
+>NewCJX-281
+CCGGUGAAGUGUUCGGAUUGCGGCG
+((((........))))......... ( -3.80)
+>NewCJX-282
+AGAACGAAAGUUGGGGGCUCGAAG
+..(((....)))............ ( -0.50)
+>NewCJX-283
+ACGAAAGUUGGGGGCUCGA
+................... (  0.00)
+>NewCJX-284
+UGCCGACCAGCAGUAGGGGGCC
+.(((..((.......)).))). ( -5.20)
+>NewCJX-285
+CACGGGGGUCCCAGUCCCGAACCC
+..(((((.......)))))..... ( -6.70)
+>NewCJX-286
+UCCUUCGGAAUUUGAAGCUAGAGG
+..(((((.....)))))....... ( -2.30)
+>NewCJX-287
+UAACUCGUCGGAUCGCACGGC
+......((((.......)))) ( -3.20)
+>NewCJX-288
+UAGGGUCCAGCGGCUGGAAGAGCAC
+.....(((((...)))))....... ( -4.80)
+>NewCJX-289
+CUCGGCGUCCGAAUUGUAGUC
+.((((...))))......... ( -3.20)
+>NewCJX-290
+UCGGCGUCCGAAUUGUAGUCUG
+((((...))))........... ( -3.00)
+>NewCJX-291
+AGAAUCCGGGCUAGAAGCGACGC
+......((.(((...)))..)). ( -1.60)
+>NewCJX-292
+CAUGAUAACUCGUCGGAUCG
+.................... (  0.00)
+>NewCJX-293
+AUCAGUUAUAGUUUGUUUGAU
+(((((.((.....)).))))) ( -1.00)
+>NewCJX-294
+UUAUAGUUUGUUUGAUGGU
+................... (  0.00)
+>NewCJX-295
+CACUUGCACAUGGGUUAGUCGAUC
+.(((.((......)).)))..... ( -1.00)
+>NewCJX-296
+UUUAAAUAGGUAGGACGGUGCGGC
+.........(((......)))... ( -0.80)
+>NewCJX-297
+ACUUGCACAUGGGUUAGUCGAUC
+(((.((......)).)))..... ( -0.50)
+>NewCJX-298
+ACCGUGCGUUGGAUUAUGACUGA
+.(((.....)))........... ( -1.10)
+>NewCJX-299
+CACCGGAUCCCAUCAGAACUCCGC
+...((((((......))..)))). ( -3.00)
+>NewCJX-300
+CCUUCGGAAUUUGAAGCUAGAGGU
+((((.((.........)).)))). ( -2.40)
+>NewCJX-301
+ACCGUGCGUUGGAUUAUGACUGAAC
+.(((.....)))............. ( -1.10)
+>NewCJX-302
+AUCAGCUCGCGUUGACUACGUCCC
+.(((((....)))))......... ( -3.50)
+>NewCJX-303
+AAUCAAGAACGAAAGUUGGGGGC
+.......(((....)))...... ( -0.50)
+>NewCJX-304
+AUAAAUAACAAUACCGGGCU
+.................... (  0.00)
+>NewCJX-305
+UUUGGACCCAAGGUCGGC
+....((((...))))... ( -4.10)
+>NewCJX-306
+UCGGCGUCCGAAUUGUAGUCUGG
+((((...))))............ ( -3.00)
+>NewCJX-307
+AACGGGCUUGGCGGAAUCAGCGG
+..........((.......)).. ( -1.30)
+>NewCJX-308
+CGCGGAUUGCGAUGGUGGCCCAAG
+(((.....))).(((....))).. ( -3.80)
+>NewCJX-309
+UUAAAUAGGUAGGACGGUGCGGCU
+........(((......))).... ( -0.80)
+>NewCJX-310
+GUCCUAAGAUGAGCUCAACGAGAA
+........................ (  0.00)
+>NewCJX-311
+ACCGACGCGGAUUGCGAUGGUGGCC
+((((.(((.....))).)))).... ( -6.80)
+>NewCJX-312
+AGCAUCGGCUAACUCUGUGCCAGC
+......(((.........)))... ( -3.90)
+>NewCJX-313
+AAGAGUGCUUGAAAUUGUCGGGAGG
+.......(((((.....)))))... ( -2.30)
+>NewCJX-314
+CCCACCCUGGAAACGGCUC
+......(((....)))... ( -1.10)
+>NewCJX-315
+AUCAGUUAUAGUUUGUUUGAUGG
+(((((.((.....)).))))).. ( -1.70)
+>NewCJX-316
+ACAUGGGUUAGUCGAUCCUA
+....(((((....))))).. ( -3.40)
+>NewCJX-317
+UUUGAACGCAAGUUGCGCCCGAAGC
+((((..((((...))))..)))).. ( -5.00)
+>NewCJX-318
+AAUAACAAUACCGGGCUC
+.................. (  0.00)
+>NewCJX-319
+GUCGGCUCGUCCCUUCUGCCGG
+..((((...........)))). ( -6.10)
+>NewCJX-320
+CAAUGAUUAGAGGCAUCGGGGGC
+....................... (  0.00)
+>NewCJX-321
+UAAUCAAGAACGAAAGUUGGGGGCU
+........(((....)))....... ( -0.50)
+>NewCJX-322
+CCCUCUUUUUGGACCCAAGGUCGGC
+...........((((...))))... ( -4.10)
+>NewCJX-323
+AGUUGGGGGCUCGAAGAC
+.................. (  0.00)
+>NewCJX-324
+UCCGCGGCGAGAGCGGGUCGUCGC
+...(((((((.......))))))) (-10.00)
+>NewCJX-325
+CUGGUACGGACAAGGGGAAUCC
+...................... (  0.00)
+>NewCJX-326
+UAAAUAGGUAGGACGGUGCGGCU
+.......(((......))).... ( -0.80)
+>NewCJX-327
+AGAUGAGCUCAACGAGAAC
+................... (  0.00)
+>NewCJX-328
+CGGCAAACGGACGGCGGGCGC
+((.(........).))..... ( -2.00)
+>NewCJX-329
+AACUGGUACGGACAAGGGGAAUCCG
+........((((.........)))) ( -2.30)
+>NewCJX-330
+GUCCGAAUUGUAGUCUGGA
+.((((.((....)).)))) ( -0.90)
+>NewCJX-331
+AGAGCCCCGUCGUGCCCGG
+......(((.......))) ( -1.00)
+>NewCJX-332
+UGCAUGUGUAAGUAUGAACU
+..((((......)))).... ( -0.20)
+>NewCJX-333
+GAGACGUCAUCAUCGCGAUUGU
+....(((.......)))..... ( -0.10)
+>NewCJX-334
+GAACUGGUACGGACAAGGGGAAUC
+........................ (  0.00)
+>NewCJX-335
+AAAUUCCGUCCAAGGCUAA
+.....((......)).... ( -0.70)
+>NewCJX-336
+AGCCGGAGGUAGGGUCCAGC
+.((.(((.......))).)) ( -3.90)
+>NewCJX-337
+AGUUGGGGGCUCGAAGACGA
+.................... (  0.00)
+>NewCJX-338
+AAUGCAGCCCCAAUCGGGCGG
+......((((.....)))).. ( -6.80)
+>NewCJX-339
+UAAAUCAGUUAUAGUUUGUUUGAU
+...(((((.((.....)).))))) ( -1.30)
+>NewCJX-340
+CGCGGAUUGCGAUGGUGGCC
+(((.....)))......... ( -2.70)
+>NewCJX-341
+GGCGUCCGAAUUGUAGUCU
+(((............))). ( -0.80)
+>NewCJX-342
+AUAGGUAGGACGGUGCGGCU
+....(((......))).... ( -0.80)
+>NewCJX-343
+UGACUUGGGUAUAGGGGC
+...((((....))))... ( -0.70)
+>NewCJX-344
+GAGACGUCAUCAUCGCGAUUGUG
+...(((((........)).))). ( -0.30)
+>NewCJX-345
+AAUGUAGGCAAGGGAAGUCGGC
+......(((.......)))... ( -0.90)
+>NewCJX-346
+CAGAAAUCUCGUGUGGAAC
+................... (  0.00)
+>NewCJX-347
+CGACCAGGGAUCAGCGGA
+.................. (  0.00)
+>NewCJX-348
+AGACUGUGAAACUGCGAAUGGCU
+.............((.....)). ( -1.30)
+>NewCJX-349
+GCACAUGGGUUAGUCGAUCCUAAGG
+......(((((....)))))..... ( -3.40)
+>NewCJX-350
+AUAGGUAGGACGGUGCGGC
+....(((......)))... ( -0.80)
+>NewCJX-351
+CUGGUACGGACAAGGGGAAUC
+..................... (  0.00)
+>NewCJX-352
+UCAUUUCUCGGAAUGCCC
+.(((((....)))))... ( -0.50)
+>NewCJX-353
+AGAACGAAAGUUGGGGGCUC
+..(((....)))........ ( -0.50)
+>NewCJX-354
+AGCUCGCGUUGACUACGUCCCUGCC
+.((..((((.....))))....)). ( -3.40)
+>NewCJX-355
+ACGAAAGUUGGGGGCUCGAA
+.................... (  0.00)
+>NewCJX-356
+AUCGGGUUAAAAUUCCUGAACCGGG
+.(((((........)))))...... ( -5.60)
+>NewCJX-357
+UACGGACAAGGGGAAUCC
+.................. (  0.00)
+>NewCJX-358
+UGAUAACUCGUCGGAUCGC
+((((.....))))...... ( -0.10)
+>NewCJX-359
+GACGCGGAUUGCGAUGGUGGCCCA
+..(((.....))).(((....))) ( -3.30)
+>NewCJX-360
+GCCCUCGGCGUCCGAAUUGUAGUCU
+....((((...)))).......... ( -3.20)
+>NewCJX-361
+AACUUUCGAUGGUAGGAU
+.(((......)))..... ( -0.30)
+>NewCJX-362
+AUUCUUGGAUUUAUGAAAGACG
+..((((..........)))).. ( -0.60)
+>NewCJX-363
+UCGGCGUCCGAAUUGUAGUCUGGAG
+((((...)))).............. ( -3.00)
+>NewCJX-364
+UUCAUGAUAACUCGUCGGAUCGC
+(((((((....)))).))).... ( -1.10)
+>NewCJX-365
+UUCAUGAUAACUCGUCGGA
+(((((((....)))).))) ( -0.50)
+>NewCJX-366
+AAGCCCACCAUGAAAAUCGGUC
+......(((((....)).))). ( -0.90)
+>NewCJX-367
+GGGCGAGAGUAGUACUAGGAUG
+...................... (  0.00)
+>NewCJX-368
+GGAGACGUCAUCAUCGCGAUUGUGG
+..............(((....))). ( -1.30)
+>NewCJX-369
+CAAUAAAUAACAAUACCGGGCU
+...................... (  0.00)
+>NewCJX-370
+CAAUAAAUAACAAUACCGGGC
+..................... (  0.00)
+>NewCJX-371
+AAAUAGGUAGGACGGUGCGGCU
+......(((......))).... ( -0.80)
+>NewCJX-372
+UCUGACAUGUGUGCGAGUCAACGGG
+..((((.((....)).))))..... ( -3.50)
+>NewCJX-373
+AAGAUGAGCUCAACGAGAAC
+.................... (  0.00)
+>NewCJX-374
+AUAAAUAACAAUACCGGGC
+................... (  0.00)
+>NewCJX-375
+CAAUAAAUAACAAUACCGGGCUC
+....................... (  0.00)
+>NewCJX-376
+UCGAGAAUUUCUGGAAGGGCUCCC
+((.(((...))).))......... ( -2.70)
+>NewCJX-377
+AUUCCGUCCAAGGCUAAAUACUGGC
+............((((.....)))) ( -1.30)
+>NewCJX-378
+GCACAUGGGUUAGUCGAUCCU
+......(((((....))))). ( -3.40)
+>NewCJX-379
+AACGAAAGUUGGGGGCUCGAAG
+...................... (  0.00)
+>NewCJX-380
+AUCAAGAACGAAAGUUGGGGGCU
+......(((....)))....... ( -0.50)
+>NewCJX-381
+UCUUGGAUUUAUGAAAGACG
+((((..........)))).. ( -0.40)
+>NewCJX-382
+GAAGCCCGUCUGAUAGCGCUC
+..(((.(........).))). ( -2.00)
+>NewCJX-383
+AUUCGCACAAUUGGUCAUCGCGCU
+...(((.............))).. ( -1.00)
+>NewCJX-384
+GACGUCAUCAUCGCGAUUGUGGAUG
+.....((((..(((....))))))) ( -2.70)
+>NewCJX-385
+UGAUUAGAGGCAUCGGGGGC
+.................... (  0.00)
+>NewCJX-386
+UUUCUGUUUAACAGCCUGCCCACCC
+...((((...))))........... ( -1.00)
+>NewCJX-387
+GAUUCAGCCCUUGUCGCU
+.....(((.......))) ( -0.40)
+>NewCJX-388
+AUCGGUUCAAGGACGCAAGGUGCCC
+..........((.(((...))))). ( -2.40)
+>NewCJX-389
+UCUUUGAACGCAAGUUGCGCCCG
+........((((...)))).... ( -3.10)
+>NewCJX-390
+UUGGAACCCUGAGCAGACUGCCG
+............(((...))).. ( -0.60)
+>NewCJX-391
+CAGCUUCUUAGAGGGACUAUGGCC
+..(((...(((.....))).))). ( -1.60)
+>NewCJX-392
+UGCACAUGGGUUAGUCGAUCCUAAG
+.......(((((....))))).... ( -3.40)
+>NewCJX-393
+GAGACGUCAUCAUCGCGAUUG
+....(((.......))).... ( -0.10)
+>NewCJX-394
+GAUUAGAGGCAUCGGGGGC
+................... (  0.00)
+>NewCJX-395
+CACCUGCGCGCUCCUGGCGUCGGC
+..((.((((.......)))).)). ( -7.90)
+>NewCJX-396
+GGGCGAGAGUAGUACUAGGA
+.................... (  0.00)
+>NewCJX-397
+GAGCGGUCGUCGGUGCAGAUCUUGG
+....((((.........)))).... ( -2.60)
+>NewCJX-398
+UGCACAUGGGUUAGUCGAUCCU
+.......(((((....))))). ( -3.40)
+>NewCJX-399
+AAUUCCGUCCAAGGCUAAAUACU
+....((......))......... ( -0.70)
+>NewCJX-400
+CAUGGGUUAGUCGAUCCUAAGGGAC
+...(((((....)))))........ ( -3.40)
+>NewCJX-401
+AAUCAAGAACGAAAGUUGGGGGCU
+.......(((....)))....... ( -0.50)
+>NewCJX-402
+AAUUAGAGUGCUCAAAGCAAGCC
+.....(..((((...))))..). ( -2.50)
+>NewCJX-403
+UCGAGAAUUUCUGGAAGGGCU
+((.(((...))).))...... ( -2.70)
+>NewCJX-404
+CGAUGCCGACCAGGGAUCAGCGGA
+.(((.((.....)).)))...... ( -6.30)
+>NewCJX-405
+AUCAGUUAUAGUUUGUUUGAUG
+(((((.((.....)).))))). ( -1.70)
+>NewCJX-406
+AGUCAGAAUCCGGGCUAGAAGCGAC
+((((........))))......... ( -2.20)
+>NewCJX-407
+ACGAUGGAUACUAGGCGCUGUGCGU
+..............((((...)))) ( -2.80)
+>NewCJX-408
+ACAGUCGGGGGCAUUCGUAUUUCAU
+.....((((....))))........ ( -0.50)
+>NewCJX-409
+AAGAUGAGCUCAACGAGAA
+................... (  0.00)
+>NewCJX-410
+UGCUUUUAGGACUCCGCUGGCACCU
+((((....((...))...))))... ( -3.70)
+>NewCJX-411
+CCCACCCUGGAAACGGCU
+......(((....))).. ( -1.10)
+>NewCJX-412
+AAUCAGUUAUAGUUUGUUUGAU
+.(((((.((.....)).))))) ( -1.30)
+>NewCJX-413
+AAGCCCGUCUGAUAGCGCU
+.(((.(........).))) ( -1.60)
+>NewCJX-414
+GUGCUUGAAAUUGUCGGGAG
+...(((((.....))))).. ( -2.30)
+>NewCJX-415
+AUGAUAACUCGUCGGAUCGCACGGC
+..........((((.......)))) ( -3.20)
+>NewCJX-416
+UAACUCGUCGGAUCGCACG
+.....(((((...)).))) ( -0.30)
+>NewCJX-417
+ACAGUGUCGCAAUAGUAAUUCAACC
+......................... (  0.00)
+>NewCJX-418
+AGGACUCCGCUGGCACCUUAUGAGA
+(((...((...))..)))....... ( -0.30)
+>NewCJX-419
+AUUCGCACAAUUGGUCAUCGCGC
+...(((.............))). ( -1.00)
+>NewCJX-420
+UCGGGGGACGGAUUGGGA
+(((.....)))....... ( -1.00)
+>NewCJX-421
+ACAAUAAAUAACAAUACCGGGCU
+....................... (  0.00)
+>NewCJX-422
+CGGAUGUUGACGCAAUGU
+.................. (  0.00)
+>NewCJX-423
+AGAGUGCUUGAAAUUGUCGGGA
+......(((((.....))))). ( -2.30)
+>NewCJX-424
+UAGGACUCCGCUGGCACCU
+.(((...((...))..))) ( -0.40)
+>NewCJX-425
+AAUGAUUAGAGGCAUCGGGGGC
+...................... (  0.00)
+>NewCJX-426
+AAUGUAGGCAAGGGAAGUCGGCA
+..(((.(((.......))).))) ( -2.70)
+>NewCJX-427
+AAGCUACCGUGCGUUGGAUUAUGAC
+..((......))............. ( -1.50)
+>NewCJX-428
+AUGUAGGCAAGGGAAGUCGGC
+.....(((.......)))... ( -0.90)
+>NewCJX-429
+UUUGAAAUUUCAUCGUGAUGGGGAU
+........(((((....)))))... ( -0.30)
+>NewCJX-430
+UGCUUGAAAUUGUCGGGAG
+..(((((.....))))).. ( -2.30)
+>NewCJX-431
+ACUGGUACGGACAAGGGGAAUCCG
+.......((((.........)))) ( -2.30)
+>NewCJX-432
+AGAGCUAGAAUUCUAACCUUGUGCC
+......................... (  0.00)
+>NewCJX-433
+GACGUCAUCAUCGCGAUU
+..(((.......)))... ( -0.10)
+>NewCJX-434
+CCCCUCUUUUUGGACCCAAGGUCGG
+............((((...)))).. ( -4.10)
+>NewCJX-435
+AGAACGAAAGUUGGGGGCUCGA
+..(((....))).......... ( -0.50)
+>NewCJX-436
+AAGUCAGAAUCCGGGCUAGAAGCGA
+.((((........))))........ ( -2.50)
+>NewCJX-437
+GUACGGACAAGGGGAAUCC
+................... (  0.00)
+>NewCJX-438
+AACGAGACCUCAGCCUGCU
+................... (  0.00)
+>NewCJX-439
+AGUUAUAGUUUGUUUGAUGGU
+..................... (  0.00)
+>NewCJX-440
+GGCGUCCGAAUUGUAGUCUGGAG
+....((((.((....)).)))). ( -1.50)
+>NewCJX-441
+AAUAGGUAGGACGGUGCGGCU
+.....(((......))).... ( -0.80)
+>NewCJX-442
+ACGAGACCUCAGCCUGCUAA
+.................... (  0.00)
+>NewCJX-443
+UGAACGCAAGUUGCGCCCGAAGC
+....((((...))))........ ( -3.10)
+>NewCJX-444
+GGCGAGAGUAGUACUAGGA
+................... (  0.00)
+>NewCJX-445
+UCAUAGCGACGUUGCUUUUUGAUC
+(((.((((....))))...))).. ( -2.70)
+>NewCJX-446
+GAACUGGUACGGACAAGGGGAAUCC
+......................... (  0.00)
+>NewCJX-447
+ACAGUGUCGCAAUAGUAAUUCAAC
+........................ (  0.00)
+>NewCJX-448
+GAACGAAAGUUGGGGGCUCGA
+.(((....))).......... ( -0.50)
+>NewCJX-449
+AUUAGAGUGCUCAAAGCAAGCC
+....(..((((...))))..). ( -2.50)
+>NewCJX-450
+UAUACCCGGCCGUCGGGGC
+....((((.....)))).. ( -6.40)
+>NewCJX-451
+UUUUGGACCCAAGGUCGGC
+.....((((...))))... ( -4.10)
+>NewCJX-452
+UCAGAAUCCGGGCUAGAAGCGACGC
+........((.(((...)))..)). ( -1.60)
+>NewCJX-453
+CUUUUUGGACCCAAGGUCGGC
+.......((((...))))... ( -4.10)
+>NewCJX-454
+ACUGCGAAAGCAUUUGCCAAGGAUG
+..(((....)))............. ( -2.50)
+>NewCJX-455
+AUUGUGUUGGCCUUCGGGAUCGGAG
+...........(((((....))))) ( -3.50)
+>NewCJX-456
+AAUUCUAGAGCUAAUACGUGCAAC
+.........((........))... ( -1.50)
+>NewCJX-457
+AAGAGUGCUUGAAAUUGUCGGGAG
+.......(((((.....))))).. ( -2.30)
+>NewCJX-458
+GUGCCGGUCGGGGGACGGAUUGGG
+...((((((.(....).)))))). ( -8.70)
+>NewCJX-459
+UAAGAUGAGCUCAACGAGA
+................... (  0.00)
+>NewCJX-460
+AUUCAUGAUAACUCGUCGGAUCG
+((((((((....)))).)))).. ( -1.70)
+>NewCJX-461
+UUAGGACUCCGCUGGCACCU
+..(((...((...))..))) ( -0.40)
+>NewCJX-462
+GUCGGGGGCAUUCGUAUUUCAUAG
+..((((....)))).......... ( -0.50)
+>NewCJX-463
+AUCAAGAACGAAAGUUGGGGGCUC
+......(((....)))........ ( -0.50)
+>NewCJX-464
+AACGAGACCUCAGCCUGCUA
+.................... (  0.00)
+>NewCJX-465
+AACGAAAGUUGGGGGCUC
+.................. (  0.00)
+>NewCJX-466
+GAUAUCUCGGCUCUUGCA
+.........((....)). ( -1.30)
+>NewCJX-467
+ACAAUAAAUAACAAUACCGGGCUC
+........................ (  0.00)
+>NewCJX-468
+ACGUCAUCAUCGCGAUUGUGGAU
+..........(((....)))... ( -1.30)
+>NewCJX-469
+AACGAAAGUUGGGGGCUCGA
+.................... (  0.00)
+>NewCJX-470
+AAGUCAGAAUCCGGGCUAGAAGCG
+.((((........))))....... ( -2.50)
+>NewCJX-471
+GAACGAAAGUUGGGGGCUC
+.(((....)))........ ( -0.50)
+>NewCJX-472
+GAUUCGCACAAUUGGUCAUCGCGCU
+....(((.............))).. ( -1.00)
+>NewCJX-473
+UAAGUCAGAAUCCGGGCU
+..((((........)))) ( -1.80)
+>NewCJX-474
+UAACUCGUCGGAUCGCACGGCC
+......((((.......)))). ( -4.00)
+>NewCJX-475
+AAUUCCGUCCAAGGCUAAAUAC
+....((......))........ ( -0.70)
+>NewCJX-476
+AGAACGAAAGUUGGGGGCUCGAA
+..(((....)))........... ( -0.50)
+>NewCJX-477
+AGUUAUAGUUUGUUUGAUG
+................... (  0.00)
+>NewCJX-478
+CACCACAGGAUUCUGAUCCU
+......(((((....))))) ( -3.30)
+>NewCJX-479
+AAGUCAGAAUCCGGGCUAGAAGC
+.((((........))))...... ( -2.50)
+>NewCJX-480
+CAGAAUCCGGGCUAGAAGCGACGC
+.......((.(((...)))..)). ( -1.60)
+>NewCJX-481
+ACGUUGUGAGAAGUCCACUGAACCU
+.....(((.......)))....... ( -1.00)
+>NewCJX-482
+UAAGAUGAGCUCAACGAGAA
+.................... (  0.00)
+>NewCJX-483
+UUCGCACAAUUGGUCAUCGCGCU
+..(((.............))).. ( -1.00)
+>NewCJX-484
+GGAGACGUCAUCAUCGCGAUU
+.....(((.......)))... ( -0.10)
+>NewCJX-485
+AGCCCUUGUCGCUUUGAUUCG
+(((.......)))........ ( -0.20)
+>NewCJX-486
+AGAGGGACUAUGGCCGCUUAGGCCA
+..........(((((.....))))) ( -8.50)
+>NewCJX-487
+GCACCGGUCGGCUCGUCCC
+.....((.((...)).)). ( -2.00)
+>NewCJX-488
+UGCUUGGGCGAGAGUAGUACUAGGA
+..(((((((.......)).))))). ( -3.60)
+>NewCJX-489
+AAGCAGAACUGGCGAUGCGGGAU
+........((.((...)).)).. ( -2.60)
+>NewCJX-490
+CAACCCUCGUGUUUAGUUGCCAACA
+......................... (  0.00)
+>NewCJX-491
+UCUGACAUGUGUGCGAGUCAAC
+..((((.((....)).)))).. ( -3.50)
+>NewCJX-492
+CCAGCUUCUUAGAGGGAC
+((..((....))..)).. ( -2.50)
+>NewCJX-493
+UCAAACUUUAAAUAGGUAGGACG
+((..((((.....))))..)).. ( -1.50)
+>NewCJX-494
+GAACGAAAGUUGGGGGCUCGAA
+.(((....)))........... ( -0.50)
+>NewCJX-495
+AGGGUGAGAGCCCCGUCGUGCCCG
+.(((((.((......)).))))). ( -8.50)
+>NewCJX-496
+AGACUGUGAAACUGCGAAUGGCUC
+.............((.....)).. ( -1.30)
+>NewCJX-497
+UAACACCACAGGAUUCUGAUCCU
+.........(((((....))))) ( -3.30)
+>NewCJX-498
+GGAGACGUCAUCAUCGCGAUUGUG
+....(((((........)).))). ( -0.30)
+>NewCJX-499
+GUCGGGGGCAUUCGUAUUUCAUAGU
+..((((....))))........... ( -0.50)
+>NewCJX-500
+AAAUUCCGUCCAAGGCUAAAU
+.....((......))...... ( -0.70)
+>NewCJX-501
+AUGAUUCAUGAUAACUCGUCGGAUC
+..(((((((((....)))).))))) ( -4.50)
+>NewCJX-502
+AGACUGUGAAACUGCGAAUGGCUCA
+.............((.....))... ( -1.30)
+>NewCJX-503
+AGCUUCUUAGAGGGACUAUGGCC
+.(((...(((.....))).))). ( -1.60)
+>NewCJX-504
+UGAGAGCAUACCUGUCGGGACCC
+(((.((.....)).)))...... ( -1.90)
+>NewCJX-505
+GAACAGCCUCUGGUCGAUGGAAC
+((.(((...))).))........ ( -1.70)
+>NewCJX-506
+AGAGGAACCGUUGAUUCGCACA
+...................... (  0.00)
+>NewCJX-507
+UCGGCAAAAUGGAUCCGUAACCU
+.(((..........)))...... ( -0.40)
+>NewCJX-508
+UCUUGGAUUUAUGAAAGACGAAC
+((((..........))))..... ( -0.40)
+>NewCJX-509
+AUGAUAACUCGUCGGAUCGCACGG
+.........(((((...)).))). ( -1.70)
+>NewCJX-510
+AAAAGCCCACCAUGAAAAUCGGUC
+........(((((....)).))). ( -0.90)
+>NewCJX-511
+AACAGCCUCUGGUCGAUGGAAC
+.....((((.....)).))... ( -1.00)
+>NewCJX-512
+GUCGGCAAAAUGGAUCCGUAACC
+..(((..........)))..... ( -0.40)
+>NewCJX-513
+AACGAAAGUUGGGGGCUCGAA
+..................... (  0.00)
+>NewCJX-514
+UCGGCCGGUCGAUCCGGGCG
+.((.((((.....)))).)) ( -9.70)
+>NewCJX-515
+CUUCUUAGAGGGACUAUGGCC
+((((...)))).......... ( -1.00)
+>NewCJX-516
+UGCACAUGGGUUAGUCGAUCCUA
+.......(((((....))))).. ( -3.40)
+>NewCJX-517
+CCCUCGGCGUCCGAAUUGUAGUCUG
+...((((...))))........... ( -3.20)
+>NewCJX-518
+AUCAACUUUCGAUGGUAGGAU
+(((.(((......)))..))) ( -0.90)
+>NewCJX-519
+ACCGUGCGUUGGAUUAUGACUGAA
+.(((.....)))............ ( -1.10)
+>NewCJX-520
+CACCACAGGAUUCUGAUCC
+.......((((....)))) ( -1.60)
+>NewCJX-521
+CGGCGUCCGAAUUGUAGUCU
+(((...)))........... ( -1.40)
+>NewCJX-522
+UUUGAAAUUUCAUCGUGAUGGGGA
+........(((((....))))).. ( -0.30)
+>NewCJX-523
+AAUUCCGUCCAAGGCUAAA
+....((......))..... ( -0.70)
+>NewCJX-524
+UUGCCGACCAGCAGUAGGGGGCC
+..(((..((.......)).))). ( -5.20)
+>NewCJX-525
+CGUCCGAAUUGUAGUCUGGA
+..((((.((....)).)))) ( -0.90)
+>NewCJX-526
+ACCAAGUGUUGGAUUGUUCACC
+.((((...)))).......... ( -1.50)
+>NewCJX-527
+GCGGAUUGCGAUGGUGGCCC
+..((.((((....)))))). ( -2.60)
+>NewCJX-528
+UAGGGUCCAGCGGCUGGAAGAGCA
+.....(((((...)))))...... ( -4.80)
+>NewCJX-529
+AAGAACGAAAGUUGGGGGCU
+...(((....)))....... ( -0.50)
+>NewCJX-530
+GAGAGCCCCGUCGUGCCCG
+................... (  0.00)
+>NewCJX-531
+GAGAGCCCCGUCGUGCCC
+.................. (  0.00)
+>NewCJX-532
+CUGACAUGUGUGCGAGUCAACGGGC
+.((((.((....)).))))...... ( -3.50)
+>NewCJX-533
+AAGGAGUCUGACAUGUGUGCG
+..................... (  0.00)
+>NewCJX-534
+UUUUAGGACUCCGCUGGCACCUU
+....(((...((...))..))). ( -0.70)
+>NewCJX-535
+CCUCGGCGUCCGAAUUGUAGUCUG
+..((((...))))........... ( -3.20)
+>NewCJX-536
+GCACAUGGGUUAGUCGAUCCUA
+......(((((....))))).. ( -3.40)
+>NewCJX-537
+UGCUGCCACGAUCCACUGAGAU
+...................... (  0.00)
+>NewCJX-538
+GACGCGGAUUGCGAUGGUGGCCC
+..(((.....))).......... ( -2.70)
+>NewCJX-539
+GAGACGUCAUCAUCGCGAU
+....(((.......))).. ( -0.10)
+>NewCJX-540
+CUUCUUAGAGGGACUAUGGCCG
+.........((........)). ( -1.40)
+>NewCJX-541
+AAUGGAUCCGUAACCUCGGG
+.......(((......))). ( -3.40)
+>NewCJX-542
+AGCCCGGGCGGAGCGGUCGUCG
+......(((((.....))))). ( -4.10)
+>NewCJX-543
+ACGAGACCUCAGCCUGCUAAAU
+...................... (  0.00)
+>NewCJX-544
+ACGAGACCUCAGCCUGCUA
+................... (  0.00)
+>NewCJX-545
+UAACGAACGAGACCUCAGCCUGCU
+........................ (  0.00)
+>NewCJX-546
+CCUCGGCGUCCGAAUUGUAGUCUGG
+..((((...))))............ ( -3.20)
+>NewCJX-547
+GGAGACGUCAUCAUCGCGAUUG
+.....(((.......))).... ( -0.10)
+>NewCJX-548
+ACGUCAUCAUCGCGAUUGUGGA
+..........(((....))).. ( -1.30)
+>NewCJX-549
+AUCAAGAACGAAAGUUGGGGGC
+......(((....)))...... ( -0.50)
+>NewCJX-550
+UGCCGGUCGGGGGACGGAUUGGGA
+..((((((.(....).)))))).. ( -8.70)
+>NewCJX-551
+ACAGAAAUCUCGUGUGGAAC
+(((((....)).)))..... ( -0.10)
+>NewCJX-552
+AAUCCGGGCUAGAAGCGACGC
+....((.(((...)))..)). ( -1.60)
+>NewCJX-553
+AGAAUCCGGGCUAGAAGCGACG
+.........(((...))).... ( -1.20)
+>NewCJX-554
+CACCAAGUGUUGGAUUGUUCACC
+..((((...)))).......... ( -1.50)
+>NewCJX-555
+AGUGUUGGAUUGUUCACCCACCA
+.(((...((....))...))).. ( -2.10)
+>NewCJX-556
+GUGUCCUAAGAUGAGCUCAACGAGA
+......................... (  0.00)
+>NewCJX-557
+CCAGCUUCUUAGAGGGACU
+((..((....))..))... ( -2.50)
+>NewCJX-558
+AGAAUCCGGGCUAGAAGCGACGCG
+......((.(((...)))..)).. ( -1.60)
+>NewCJX-559
+AUUCCGUCCAAGGCUAAAUACU
+...((......))......... ( -0.70)
+>NewCJX-560
+AGGCAAACUCUGAAUACUAGAUA
+........((((.....)))).. ( -0.60)
+>NewCJX-561
+GUUAUAGUUUGUUUGAUG
+.................. (  0.00)
+>NewCJX-562
+ACAGCCUCUGGUCGAUGGAAC
+....((((.....)).))... ( -1.00)
+>NewCJX-563
+UCGGCGUCCGAAUUGUAGUC
+((((...))))......... ( -3.00)
+>NewCJX-564
+GCGGAUUGCGAUGGUGGCC
+..((.((((....)))))) ( -1.80)
+>NewCJX-565
+UAGCCCUACGAGACGCCU
+.................. (  0.00)
+>NewCJX-566
+AGGGUGAGAGCCCCGUCGUGCCC
+.(((((.((......)).))))) ( -7.30)
+>NewCJX-567
+CCUCUUUUUGGACCCAAGGUCGGCU
+..........((((...)))).... ( -4.10)
+>NewCJX-568
+GCGUCCGAAUUGUAGUCU
+.................. (  0.00)
+>NewCJX-569
+UUGAAAUUUCAUCGUGAUGGGGAU
+.......(((((....)))))... ( -0.30)
+>NewCJX-570
+UAGGACUCCGCUGGCACCUU
+.(((...((...))..))). ( -0.70)
+>NewCJX-571
+AAAGCCCACCAUGAAAAUCGGUC
+.......(((((....)).))). ( -0.90)
+>NewCJX-572
+AGGAGUCUGACAUGUGUGCG
+.................... (  0.00)
+>NewCJX-573
+GUGAACCAUCGAGUCUUUGAACGCA
+(((.....((((....)))).))). ( -0.50)
+>NewCJX-574
+UCUUUUUGGACCCAAGGUCGGCU
+........((((...)))).... ( -4.10)
+>NewCJX-575
+CCUGCGCGCUCCUGGCGUCGGC
+((.((((.......)))).)). ( -7.20)
+>NewCJX-576
+AUUCCGUGAAUCGGAAGCGGGGC
+.(((((.....)))))....... ( -5.20)
+>NewCJX-577
+AAAAGCCCACCAUGAAAAUCGGUCG
+........(((((....)).))).. ( -0.90)
+>NewCJX-578
+CGCGGAUUGCGAUGGUGGCCC
+(((.....))).......... ( -2.70)
+>NewCJX-579
+AUGCCGACCAGGGAUCAGCGGAUGU
+((.((.....)).)).......... ( -2.00)
+>NewCJX-580
+UGAGAGCAUACCUGUCGGGACC
+(((.((.....)).)))..... ( -1.90)
+>NewCJX-581
+ACGAGACCUCAGCCUGCUAAA
+..................... (  0.00)
+>NewCJX-582
+AUAACACCACAGGAUUCUGAUCCU
+..........(((((....))))) ( -3.30)
+>NewCJX-583
+UCCGUCCAAGGCUAAAUACUG
+.((......)).......... ( -0.70)
+>NewCJX-584
+CAGAAUCCGGGCUAGAAGCGACG
+..........(((...))).... ( -1.20)
+>NewCJX-585
+ACGCAUCAUUCAAAUUUCUGCCCU
+..(((.............)))... ( -0.10)
+>NewCJX-586
+UUGGAACCCUGAGCAGACUGCC
+............(((...))). ( -0.60)
+>NewCJX-587
+CGAGGCAAACUCUGAAUACUAGAUA
+.(((.....)))............. ( -2.70)
+>NewCJX-588
+UCUGACUUGGGUAUAGGGGC
+.....((((....))))... ( -0.70)
+>NewCJX-589
+ACCCUAUGAGGAAAGAACUCCCA
+......((.(((......))))) ( -2.20)
+>NewCJX-590
+ACCACAGGAUUCUGAUCCU
+.....(((((....))))) ( -3.30)
+>NewCJX-591
+ACUGGUACGGACAAGGGGAA
+.................... (  0.00)
+>NewCJX-592
+UCUUGGAUUUAUGAAAGACGA
+((((..........))))... ( -0.40)
+>NewCJX-593
+AAUUUCAUCGUGAUGGGGA
+...(((((....))))).. ( -0.30)
+>NewCJX-594
+UCAGACUGUGAAACUGCGAAUGGCU
+(((.....)))....((.....)). ( -1.50)
+>NewCJX-595
+UUGAACGCAAGUUGCGCCCGAAGC
+(((..((((...))))..)))... ( -4.10)
+>NewCJX-596
+AAAUAACAAUACCGGGCUC
+................... (  0.00)
+>NewCJX-597
+AGGACUCCGCUGGCACCUUAUGA
+(((...((...))..)))..... ( -0.30)
+>NewCJX-598
+CACCAAGUGUUGGAUUGUUCACCC
+..((((...))))........... ( -1.50)
+>NewCJX-599
+AUUCAUGAUAACUCGUCGGA
+.(((((((....)))).))) ( -0.80)
+>NewCJX-600
+AGUGUCGCAAUAGUAAUUCAACC
+....................... (  0.00)
+>NewCJX-601
+AUAAAUAACAAUACCGGGCUC
+..................... (  0.00)
+>NewCJX-602
+AGGACUCCGCUGGCACCU
+(((...((...))..))) ( -0.20)
+>NewCJX-603
+CAGUGUCGCAAUAGUAAUUCAACC
+........................ (  0.00)
+>NewCJX-604
+AUUAGAGUGCUCAAAGCAAGCCU
+....(..((((...))))..).. ( -2.50)
+>NewCJX-605
+CAGACUGUGAAACUGCGAAUGGCUC
+..............((.....)).. ( -1.30)
+>NewCJX-606
+UGAAAAUCCGGAGGACCGA
+........(((....))). ( -2.70)
+>NewCJX-607
+UGAACGCAAGUUGCGCCCG
+....((((...)))).... ( -3.10)
+>NewCJX-608
+CAAUGUAGGCAAGGGAAGUCGGC
+.......(((.......)))... ( -0.90)
+>NewCJX-609
+UCGGCUCGUCCCUUCUGCCGGC
+.((((...........)))).. ( -6.10)
+>NewCJX-610
+AACGAACGAGACCUCAGCCUGC
+...................... (  0.00)
+>NewCJX-611
+UGCUGUUACUUUGAAGAAAUUAGAG
+........((((((.....)))))) ( -1.40)
+>NewCJX-612
+ACCAAGUGUUGGAUUGUUCACCC
+.((((...))))........... ( -1.50)
+>NewCJX-613
+GAAGCGAUCUCGUACUAAACGAA
+.........((((.....)))). ( -2.30)
+>NewCJX-614
+AACGAACGAGACCUCAGCCUGCU
+....................... (  0.00)
+>NewCJX-615
+AACGGGCUUGGCGGAAUC
+..((.......))..... ( -0.20)
+>NewCJX-616
+AUCAUUCAAAUUUCUGCCCU
+.................... (  0.00)
+>NewCJX-617
+CGGUGAAGUGUUCGGAUUGCGGCG
+((.((.(((......))).)).)) ( -2.10)
+>NewCJX-618
+AUUUCAUCGUGAUGGGGAUAGAUCA
+...(((((........))).))... ( -1.40)
+>NewCJX-619
+GUGAACCAUCGAGUCUUUGAACGC
+........((((....)))).... ( -0.30)
+>NewCJX-620
+CCGGUGUGCACCGGUCGGCUC
+(((((....)))))....... ( -6.50)
+>NewCJX-621
+AAGUUGGGGGCUCGAAGACGAUC
+...........(((....))).. ( -0.60)
+>NewCJX-622
+UCCGUCCAAGGCUAAAUACU
+.((......))......... ( -0.70)
+>NewCJX-623
+AUAACUCGUCGGAUCGCACGGC
+.......((((.......)))) ( -3.20)
+>NewCJX-624
+AAAUAACAAUACCGGGCU
+.................. (  0.00)
+>NewCJX-625
+GACCUAUACCCGGCCGUCGGGGC
+........((((.....)))).. ( -6.40)
+>NewCJX-626
+UAGGUAGGACGGUGCGGCU
+...(((......))).... ( -0.80)
+>NewCJX-627
+UAACGAACGAGACCUCAGCCUGC
+....................... (  0.00)
+>NewCJX-628
+AUAGUUUGUUUGAUGGUAUC
+.................... (  0.00)
+>NewCJX-629
+AAAGCCCACCAUGAAAAUCGGUCG
+.......(((((....)).))).. ( -0.90)
+>NewCJX-630
+GAAUCCGGGCUAGAAGCGACGC
+.....((.(((...)))..)). ( -1.60)
+>NewCJX-631
+GUCUUUGAACGCAAGUUGCGCCC
+.........((((...))))... ( -3.10)
+>NewCJX-632
+UCGGCCGGUCGAUCCGGGC
+..(.((((.....)))).) ( -7.50)
+>NewCJX-633
+GUCGGCAAAAUGGAUCCGUAACCU
+..(((..........)))...... ( -0.40)
+>NewCJX-634
+UCUUUGAACGCAAGUUGCGCCCGA
+...(((..((((...))))..))) ( -3.50)
+>NewCJX-635
+UACGAGAGGAACCGUUGAUUCGCAC
+.(((........))).......... ( -0.60)
+>NewCJX-636
+CCUAUACCCGGCCGUCGGGGC
+......((((.....)))).. ( -6.40)
+>NewCJX-637
+AGAACUGGUACGGACAAGGGGAA
+....................... (  0.00)
+>NewCJX-638
+UGUCCUAAGAUGAGCUCAACGAGA
+........................ (  0.00)
+>NewCJX-639
+UUAAAUCAGUUAUAGUUUGUUUGAU
+....(((((.((.....)).))))) ( -1.30)
+>NewCJX-640
+GGCGUCCGAAUUGUAGUCUG
+(((............))).. ( -0.80)
+>NewCJX-641
+ACCUAUACCCGGCCGUCGGGGC
+.......((((.....)))).. ( -6.40)
+>NewCJX-642
+CGAGGGAAAGAUGAAAAGGACU
+...................... (  0.00)
+>NewCJX-643
+AUCCGGGCUAGAAGCGACGC
+...((.(((...)))..)). ( -1.60)
+>NewCJX-644
+CGAAGAACCUUACCAGGGCU
+.......(((....)))... ( -1.50)
+>NewCJX-645
+UGGGUUGGGUCGAUCGGUCCGCC
+..(((.(((((....)))))))) ( -4.30)
+>NewCJX-646
+UGCACCGGUCGGCUCGUCCCU
+......((.((...)).)).. ( -2.00)
+>NewCJX-647
+UACGGACAAGGGGAAUCCGACUGUU
+..((((.........))))...... ( -2.90)
+>NewCJX-648
+GUCGGCUCGUCCCUUCUGCCGGC
+((((((...........)))))) ( -8.60)
+>NewCJX-649
+CCAUGAAAAUCGGUCGCC
+.................. (  0.00)
+>NewCJX-650
+GACGUCAUCAUCGCGAUUGUGGA
+...........(((....))).. ( -1.30)
+>NewCJX-651
+AGGACUCCGCUGGCACCUUAUGAG
+(((...((...))..)))...... ( -0.30)
+>NewCJX-652
+ACUGGUACGGACAAGGGGAAUCCGA
+.......((((.........)))). ( -2.90)
+>NewCJX-653
+CUACUCGGAUAACCGUAGU
+..((((((....))).))) ( -3.80)
+>NewCJX-654
+AAUAAAUAACAAUACCGGGCU
+..................... (  0.00)
+>NewCJX-655
+AGCCUCUGGUCGAUGGAAC
+..((((.....)).))... ( -1.00)
+>NewCJX-656
+UAACGAACGAGACCUCAGCCUGCUA
+......................... (  0.00)
+>NewCJX-657
+AACACCACAGGAUUCUGAUCCU
+........(((((....))))) ( -3.30)
+>NewCJX-658
+GAUUCAUGAUAACUCGUCGGAUC
+(((((((((....)))).))))) ( -4.50)
+>NewCJX-659
+AUGUAGGCAAGGGAAGUCGGCA
+.(((.(((.......))).))) ( -2.70)
+>NewCJX-660
+CAGAAAUCUCGUGUGGAACA
+.................... (  0.00)
+>NewCJX-661
+UUCCGUCCAAGGCUAAAUACUGGC
+...........((((.....)))) ( -1.30)
+>NewCJX-662
+AGUUGGGGGCUCGAAGACGAUC
+..........(((....))).. ( -0.60)
+>NewCJX-663
+CCACCCUGGAAACGGCUC
+.....(((....)))... ( -1.10)
+>NewCJX-664
+AGAGGGUGAGAGCCCCGUCGUGCCC
+...(((((.((......)).))))) ( -7.30)
+>NewCJX-665
+CAUGAUAACUCGUCGGAUCGCACG
+..........(((((...)).))) ( -0.30)
+>NewCJX-666
+AGGACUCCGCUGGCACCUU
+(((...((...))..))). ( -0.30)
+>NewCJX-667
+ACUCAGAACUGGUACGGAC
+................... (  0.00)
+>NewCJX-668
+GGAGACGUCAUCAUCGCGAUUGU
+.....(((.......)))..... ( -0.10)
+>NewCJX-669
+GAUUAGCCCUACGAGACGCCU
+..................... (  0.00)
+>NewCJX-670
+CUUUGAACGCAAGUUGCGCCCG
+.......((((...)))).... ( -3.10)
+>NewCJX-671
+UGCCGACCAGGGAUCAGCGGAUGU
+..((......))............ ( -1.60)
+>NewCJX-672
+ACACCACAGGAUUCUGAUCCU
+.......(((((....))))) ( -3.30)
+>NewCJX-673
+ACGCUCUGUAUACAUUAGCAUGGGA
+...((((((........))).))). ( -2.80)
+>NewCJX-674
+CAUGGGUUAGUCGAUCCU
+...(((((....))))). ( -3.40)
+>NewCJX-675
+AACUGGUACGGACAAGGGGAA
+..................... (  0.00)
+>NewCJX-676
+CAGCUUCUUAGAGGGACU
+...((((...)))).... ( -1.10)
+>NewCJX-677
+UAGGACUCCGCUGGCACCUUAUGAG
+.(((...((...))..)))...... ( -0.70)
+>NewCJX-678
+CUUGAAAAUCCGGAGGACC
+........(((...))).. ( -0.40)
+>NewCJX-679
+GUCUUUGAACGCAAGUUGCGCCCGA
+....(((..((((...))))..))) ( -3.50)
+>NewCJX-680
+AACGAGACCUCAGCCUGCUAA
+..................... (  0.00)
+>NewCJX-681
+UGCUCGUGGAGACGUCAUCAUCGC
+.....((((.((.....)).)))) ( -1.90)
+>NewCJX-682
+UUGGGUUGGGUCGAUCGGUCCGCC
+...(((.(((((....)))))))) ( -4.30)
+>NewCJX-683
+AACGAGACCUCAGCCUGCUAAAU
+....................... (  0.00)
+>NewCJX-684
+AACGAGACCUCAGCCUGCUAAA
+...................... (  0.00)
+>NewCJX-685
+GGAAGCCCGUCUGAUAGCGCU
+...(((.(........).))) ( -1.60)
+>NewCJX-686
+GGAGACGUCAUCAUCGCGAU
+.....(((.......))).. ( -0.10)
+>NewCJX-687
+GCUUUUAGGACUCCGCUGGCACCU
+(((....((...))...))).... ( -3.30)
+>NewCJX-688
+CUUGCACAUGGGUUAGUCGAUC
+...................... (  0.00)
+>NewCJX-689
+CACUGAUGUAUUCAACGAGU
+...(((.....)))...... ( -0.50)
+>NewCJX-690
+UUACCCUACUGAUGACAGUGUCGCA
+......(((((....)))))..... ( -3.20)
+>NewCJX-691
+CUUGCACAUGGGUUAGUCGAUCC
+.........(((((....))))) ( -2.20)
+>NewCJX-692
+UCAGACUGUGAAACUGCGAAUGGC
+(((.....)))....((.....)) ( -0.30)
+>NewCJX-693
+CCCACGCCCGGUCGUACUCA
+.((......))......... ( -0.40)
+>NewCJX-694
+AACGAACGAGACCUCAGCCUGCUA
+........................ (  0.00)
+>NewCJX-695
+UCUUUGAACGCAAGUUGCGCCC
+........((((...))))... ( -3.10)
+>NewCJX-696
+GACGCGGAUUGCGAUGGUGGCC
+..(((.....)))......... ( -2.70)
+>NewCJX-697
+AAUCCGGGCUAGAAGCGAC
+.......(((...)))... ( -1.20)
+>NewCJX-698
+ACGAACGAGACCUCAGCCUGCU
+...................... (  0.00)
+>NewCJX-699
+AAUGUAGGCAAGGGAAGUCGGCAA
+..(((.(((.......))).))). ( -3.20)
+>NewCJX-700
+ACGUUGUGAGAAGUCCACUGAACC
+.....(((.......)))...... ( -1.00)
+>NewCJX-701
+AUGAGAACUUUGAAGGCCG
+................... (  0.00)
+>NewCJX-702
+UGAACGCAAGUUGCGCCCGA
+....((((...))))..... ( -3.10)
+>NewCJX-703
+CUCGUCGGAUCGCACGGC
+...((((.......)))) ( -3.20)
+>NewCJX-704
+AGAGGGUGAGAGCCCCGUCGUGCC
+...((((....))))......... ( -5.40)
+>NewCJX-705
+AACGAACGAGACCUCAGCC
+................... (  0.00)
+>NewCJX-706
+CAGCUUCUUAGAGGGACUAUGGCCG
+..(((...(((.....))).))).. ( -1.60)
+>NewCJX-707
+UCAAGAACGAAAGUUGGGGGCU
+.....(((....)))....... ( -0.50)
+>NewCJX-708
+CCGACCAGGGAUCAGCGGA
+((......))......... ( -1.40)
+>NewCJX-709
+GAAAUUUCAUCGUGAUGGGGAU
+.....(((((....)))))... ( -0.30)
+>NewCJX-710
+CACAUGGGUUAGUCGAUCCUAAG
+.....(((((....))))).... ( -3.40)
+>NewCJX-711
+CCGUGCGUUGGAUUAUGACUG
+(((.....))).......... ( -1.10)
+>NewCJX-712
+UUUUAGGACUCCGCUGGCACCU
+....(((...((...))..))) ( -0.40)
+>NewCJX-713
+UCGGGGGACGGAUUGGGAAC
+(((.....)))......... ( -1.00)
+>NewCJX-714
+AGGGUGAGAGCCCCGUCGUGCC
+.((((....))))......... ( -5.40)
+>NewCJX-715
+AAUUAGAGUGCUCAAAGCAAGCCU
+.....(..((((...))))..).. ( -2.50)
+>NewCJX-716
+CAUGAUAACUCGUCGGAUCGCACGG
+..........(((((...)).))). ( -1.70)
+>NewCJX-717
+GCAGCCCCAAUCGGGCGGUA
+((.((((.....)))).)). ( -7.60)
+>NewCJX-718
+CACUGAUGUAUUCAACGAG
+...(((.....)))..... ( -0.50)
+>NewCJX-719
+UGAACGCAAGUUGCGCCC
+....((((...))))... ( -3.10)
+>NewCJX-720
+UUCUUGGAUUUAUGAAAGACGAAC
+.((((..........))))..... ( -0.60)
+>NewCJX-721
+AAUGGAUCCGUAACCUCGGGA
+.......(((......))).. ( -3.40)
+>NewCJX-722
+UGACAAUAAAUAACAAUACCGGGCU
+......................... (  0.00)
+>NewCJX-723
+AGUCUUUGAACGCAAGUUGCGCCC
+..........((((...))))... ( -3.10)
+>NewCJX-724
+AACGCCUCUAAGUCAGAAUCCGGGC
+...((((..............)))) ( -2.30)
+>NewCJX-725
+CUAUACCCGGCCGUCGGGGC
+.....((((.....)))).. ( -6.40)
+>NewCJX-726
+GGCGUCCGAAUUGUAGUCUGGAGAA
+....((((.((....)).))))... ( -1.50)
+>NewCJX-727
+ACACCACAGGAUUCUGAUCC
+........((((....)))) ( -1.60)
+>NewCJX-728
+UUGGGGGCUCGAAGACGAUC
+........(((....))).. ( -0.60)
+>NewCJX-729
+GGCGUCCGAAUUGUAGUCUGGAGA
+....((((.((....)).)))).. ( -1.50)
+>NewCJX-730
+AAUUUCAUCGUGAUGGGGAU
+...(((((....)))))... ( -0.30)
+>NewCJX-731
+UAUUCCGUGAAUCGGAAGCGGGGC
+..(((((.....)))))....... ( -5.20)
+>NewCJX-732
+AAUCCGGGCUAGAAGCGA
+.......(((...))).. ( -1.20)
+>NewCJX-733
+AAGUUGGGGGCUCGAAGACG
+.................... (  0.00)
+>NewCJX-734
+AAACUCUGGUGGAGGCCCGCAGC
+........((((....))))... ( -4.50)
+>NewCJX-735
+GCUACCGUGCGUUGGAUUAUGAC
+((......))............. ( -1.80)
+>NewCJX-736
+AACGAUGGAUACUAGGCGCUGUGCG
+...............((.....)). ( -0.80)
+>NewCJX-737
+AGACGUCGGCGGGGGCCCCGGA
+...((..(((....))).)).. ( -5.20)
+>NewCJX-738
+AAGCCCACCAUGAAAAUCGGU
+......(((((....)).))) ( -0.60)
+>NewCJX-739
+UGCGGAUGUUGACGCAAU
+((((........)))).. ( -5.20)
+>NewCJX-740
+AAAACGGGGUUGUGGGAGAG
+.................... (  0.00)
+>NewCJX-741
+ACAAUGGACGGGACAAAGGAU
+..................... (  0.00)
+>NewCJX-742
+UGUGGGUUGCACCGCCGACCGACCC
+.((.(((((......))))).)).. ( -7.90)
+>NewCJX-743
+GCGAGCGAAAUGGGAGCAGCCU
+((..((.........)).)).. ( -2.40)
+>NewCJX-744
+ACAUGGGUUAGUCGAUCCUAAGGGA
+....(((((....)))))....... ( -3.40)
+>NewCJX-745
+UCAACUUUCGAUGGUAGG
+...(((......)))... ( -0.30)
+>NewCJX-746
+UCAUCGCGCUUGGUUGAAAAGCCAG
+..........(((((....))))). ( -4.90)
+>NewCJX-747
+AUUGUAAGUGGCAGAGUGGC
+.......((.((...)).)) ( -0.50)
+>NewCJX-748
+ACUCCAAAAACCCGUCCU
+.................. (  0.00)
+>NewCJX-749
+UGUCGCAGGAUAGAGGGCACUG
+((((....)))).......... ( -1.90)
+>NewCJX-750
+AAACUCUGGUGGAGGCCCGCAGCG
+........((((....)))).... ( -4.50)
+>NewCJX-751
+AAGCGAAGAACCUUACCAGGGC
+..........(((....))).. ( -1.50)
+>NewCJX-752
+UUCGUCUGACUUGGGUAUAGGGGC
+..(.((((((....)).)))).). ( -1.60)
+>NewCJX-753
+UGAGGCGCAGCAGUUGACU
+................... (  0.00)
+>NewCJX-754
+AGACGUCGGCGGGGGCCCCGG
+...((..(((....))).)). ( -5.20)
+>NewCJX-755
+CUCGGCGUCCGAAUUGUAGUCG
+.((((...)))).......... ( -3.20)
+>NewCJX-756
+AGAGGGGAAAGGUUCCAUGUGAA
+....((((....))))....... ( -2.20)
+>NewCJX-757
+AAACUCUGGUGGAGGCCCGCAG
+........((((....)))).. ( -4.50)
+>NewCJX-758
+AGAGGGGAAAGGUUCCAUG
+....((((....))))... ( -2.20)
+>NewCJX-759
+GAGAAUUUCUGAAAGGGCU
+................... (  0.00)
+>NewCJX-760
+UUGUAAGUGGCAGAGUGGC
+......((.((...)).)) ( -0.50)
+>NewCJX-761
+AUUCCCGGCUGGUGCACC
+.......((....))... ( -1.30)
+>NewCJX-762
+AUCGGCGUCCGAAUUGUAGUCU
+.((((...)))).......... ( -3.00)
+>NewCJX-763
+UUUGGCUGUAGAGGAUCGUUCU
+.........((((.....)))) ( -0.20)
+>NewCJX-764
+AAAACAAAGCAUUGCGAUGGUCCC
+....((..((...))..))..... ( -0.70)
+>NewCJX-765
+UCAGAUACCGUCCUAGUCUCAA
+..((((.........))))... ( -0.10)
+>NewCJX-766
+UGAAAUUUCAUCGUGAUGGGGAU
+......(((((....)))))... ( -0.30)
+>NewCJX-767
+GAGAAUUUCUGAAAGGGCUCCCU
+(((..(((....)))..)))... ( -1.20)
+>NewCJX-768
+CUCAAACUUUAAAUAGGUAGGACG
+.((..((((.....))))..)).. ( -1.70)
